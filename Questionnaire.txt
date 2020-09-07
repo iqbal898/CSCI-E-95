@@ -1,0 +1,106 @@
+      Last revised 1-Sep-20
+
+          Questionnaire
+
+   Harvard Extension School CSCI E-95: Compiler Design
+        and Implementation
+
+            Fall 2020
+
+
+Name: Iqbaluddin Mohammed       Home/Cellular phone number: 407-496-0520
+
+
+E-mail: iqm755@g.harvard.edu       Work phone number: 407-496-0520
+
+
+Where are you located? Orlando, FL 	 What is your time zone?  EST
+
+
+So that we can meet on-line, if necessary, what is your Google
+Hangouts name and/or your Skype name?  And, which do you prefer to
+use? iqm755 Google hangouts - preferable
+
+
+Occupation (If an undergraduate student, please specify your major and
+year and at which school; If a graduate student, please specify your
+department, field, and year and at which school). Working as a Sr. Software Consultant for Optum Services Inc.
+
+
+Have you taken: This is my FIRST Class
+  CSCI E-10a (Formerly CSCI E-50a) (Introduction to Computer Science
+      Using Java I),  NOPE
+  CSCI E-10b (Formerly CSCI E-50b) (Introduction to Computer Science
+      Using Java II), NOPE
+  CSCI E-22 (Formerly CSCI E-119) (Data Structures), NOPE
+  CSCI E-26 (Introduction to C, Unix/Linux Programming, and Web Interfaces), NOPE
+  CSCI E-28 (Formerly CSCI E-215) (Unix/Linux Systems Programming), NOPE
+  CSCI E-38 (Introduction to C++ for Programmers), NOPE
+  CSCI E-50 (Formerly CSCI E-52) (Intensive Introduction to Computer Science), NOPE
+  CSCI E-53 (Effective C++ for Programmers), NOPE
+  CSCI E-61 (Systems Programming and Machine Organization), NOPE
+  ENSC E-123 or CSCI E-123 (Laboratory Electronics: Digital Circuit
+      Design), NOPE
+  PHYS E-123a (Laboratory Electronics: Analog Circuit Design), NOPE
+  CSCI E-124 (Data Structures and Algorithms), NOPE
+  CSCI E-152 (Programming Languages), NOPE
+  or equivalents?  Please specify which? NOPE
+
+
+If you have not taken CSCI E-22 (Formerly CSCI E-119) (Data
+Structures) or CSCI E-124 (Data Structures and Algorithms), how do you
+meet the prerequisite? Prior Software Programming Experience
+
+
+
+If you have not taken CSCI E-124 (Data Structures and Algorithms), do
+you have experience implementing many different data structures from
+scratch?  If yes, please describe.  If not, how do you meet the
+prerequisite?  I've plenty of experience with Data Structures, DDLs, Data Mappings, ETL, Data Transformation, formatting, etc that I've been using in my job.  I'm a Sr. Data Engineer so this should be easy for me to pick it up.
+
+
+Are you currently working toward a degree in a degree program?  If so,
+which program and what degree? Graduate Program in Software Engineering (This is my first class)
+
+
+Are you taking any other classes concurrently with this one? NOPE
+
+
+Do you have experience implementing many different data structures
+from scratch?  If yes, please describe.  If not, how do you meet the
+prerequisite? I've plenty of experience with Data Structures, DDLs, Data Mappings, ETL, Data Transformation, formatting, etc that I've been using in my job.  I'm a Sr. Data Engineer so this should be easy for me to pick it up.  I define various datamarts based on star schema, snow flake schema, third normal form, etc.
+
+
+Do you have experience using Unix?  Do you have experience programming
+using Unix system calls?  If yes, please describe. Yes, I do have good amount of UNIX experience.  Haven't used UNIX system calls but I can pick it up quickly due to good UNIX experience.
+
+
+
+Do you have experience using Windows?  If so, as a user or as a
+programmer? Yes, I'm a good Windows user
+
+
+What additional appropriate course or work experience do you have? I've been programming in SAS, Sql, Oracle, Teradata, MS Sql, SAS Administration, UNIX Administration, etc that I use in my work on a daily basis.
+
+
+What is your math background? Used in the School.
+
+
+What computer languages do you know (please include assembler and
+high-level languages)?  Have you programmed in the C Programming
+Language, C++, or Java? C Language used in the past
+
+
+What operating systems have you used (e.g. Windows, Mac OS, Linux,
+iOS, Android, etc.)? Windows, Linux, AIX, HP-UX
+
+
+What computers have you used (i.e., which machine language instruction
+sets)? Worked as a Programmer and used Mainframe, AS-400, Ultra Spark Servers, Linux Servers for code development, testing and implementation.
+
+
+What is your motivation for taking this course? Get command over C langague, Compiler Design and Semantic Processes, Converting HLL to LLL, Parser, etc. 
+
+
+Other comments: NOPE
+

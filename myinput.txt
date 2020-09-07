@@ -1,0 +1,5 @@
+dog cat rat Cat tiger
+Mouse lion cat rat
+lion tiger dog Cat
+Tiger dog dog
+
